@@ -1,8 +1,8 @@
-# SocialSphere 🌐
+# SocialMidia 🌐
 
 A minimalist social media web application built with **Vite** and **React.js**, focusing on core functionalities like creating, viewing, and deleting posts/comments. This project demonstrates fundamental React concepts such as state management with `useState`, component composition, and the integration of **Phosphor Icons** for a sleek UI.
 
-![Demo](https://via.placeholder.com/800x400.png?text=SocialSphere+Demo) *Replace with actual demo image*
+![Demo](https://via.placeholder.com/800x400.png?text=SocialSphere+Demo)
 
 ## Features ✨
 
