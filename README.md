@@ -30,19 +30,22 @@ A minimalist social media web application built with **Vite** and **React.js**, 
    cd SocialSphere
 Install dependencies:
 
-bash
-Copy
-npm install
+```bash
+ npm install
+```
 # or
+```bash
 yarn install
+```
 Run the development server:
-
-bash
-Copy
+```bash
 npm run dev
+```
 # or
+
+```bash
 yarn dev
-Open your browser and navigate to http://localhost:5173.
+```
 
 Usage 🖱️
 Create a Post:
@@ -56,31 +59,3 @@ Hover over a comment and click the trash icon to remove it.
 
 View Posts:
 Scroll through the feed to see all shared posts.
-
-Code Structure 📂
-plaintext
-Copy
-/src
-|-- /components
-|   |-- Post.jsx        # Post creation and display component
-|   |-- Comment.jsx     # Comment component with delete functionality
-|-- /hooks
-|   |-- usePosts.js     # Custom hook for post state management
-|-- App.jsx             # Main component rendering the feed
-|-- main.jsx            # React DOM root
-Dependencies 📦
-react: ^18.2.0
-
-react-dom: ^18.2.0
-
-@phosphor-icons/react: ^2.0.0
-
-vite: ^4.0.0
-
-Contributing 🤝
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
-
-License 📄
-This project is licensed under the MIT License. See LICENSE for details.
-
-Made with ❤️ by [Your Name]. Connect with me on Twitter!
