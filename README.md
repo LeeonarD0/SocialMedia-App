@@ -33,21 +33,20 @@ Install dependencies:
 ```bash
  npm install
 ```
-# or
+or
 ```bash
 yarn install
 ```
-Run the development server:
+# Run the development server:
 ```bash
 npm run dev
 ```
-# or
-
+or
 ```bash
 yarn dev
 ```
 
-Usage 🖱️
+# Usage 🖱️
 Create a Post:
 Click the "New Post" button, enter your text, and submit.
 
