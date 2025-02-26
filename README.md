@@ -2,7 +2,7 @@
 
 A minimalist social media web application built with **Vite** and **React.js**, focusing on core functionalities like creating, viewing, and deleting posts/comments. This project demonstrates fundamental React concepts such as state management with `useState`, component composition, and the integration of **Phosphor Icons** for a sleek UI.
 
-![Demo](https://via.placeholder.com/800x400.png?text=SocialSphere+Demo)
+![Demo](./public/preview-app.png)
 
 ## Features ✨
 
@@ -26,8 +26,8 @@ A minimalist social media web application built with **Vite** and **React.js**, 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/SocialSphere.git
-   cd SocialSphere
+   git clone https://github.com/LeeonarD0/SocialMedia-App.git
+   cd SocialMedia-App
 Install dependencies:
 
 ```bash
